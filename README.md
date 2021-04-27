@@ -13,7 +13,7 @@ I am an aspiring Full Stack Web Application Developer by the day and a Poet by n
 - 💬 Ask me about **Books and technology**... And I can go on without any halt😅
 - ⚡ Fun fact: I am very clumsy and lazy
 
-<br>
+
 
 
 <h2><b>👩‍💻 Languages</b></h2>
