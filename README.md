@@ -1,16 +1,18 @@
-### Hi there 👋
+# <h1 align="center"> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Sana Eram 👨‍💻</h1>
+<h3 align="center">Full Stack Web Developer | Content writer | Poet | Avid reader | Ambivert </h3>
 
-<!--
-**sanaeram5/sanaeram5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I am a Full Stack Web Application Developer by the day and a Poet by night. I enjoy exploring various domains and technologies. I spend time learning new tech related stuffs and love to juggle between them. I perform best under pressure.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+*NOTE: Top languages does not indicate my skill level or anything like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/sanaeram5/github-readme-stats)*
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanaeram5&show_icons=true&locale=en&layout=compact" alt="sanaeram5" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanaeram5&show_icons=true&locale=en" alt="sanaeram5" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanaeram5&" alt="sanaeram5" /></p>
