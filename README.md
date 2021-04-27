@@ -4,8 +4,8 @@
 I am an aspiring Full Stack Web Application Developer by the day and a Poet by night. I enjoy exploring various domains and technologies. I spend time learning new tech related stuffs and love to juggle between them. I perform best under pressure.
 
 - 🔭 I’m currently working on **developing myself as an individual**.
-- 🌱 I’m currently learning **Gatsby**.
-- 👯 I’m looking to collaborate on **ML and AI web-based projects**.
+- 💻 I’m currently learning **Gatsby**.
+- 🤝 I’m looking to collaborate on **ML and AI web-based projects**.
 - 💬 Ask me about **Books and technology**... And I can go on without any halt😅
 - ⚡ Fun fact: I am very clumsy and lazy
 
